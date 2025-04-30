@@ -11,7 +11,6 @@ This project implements a distributed system in Java that calculates the average
 - **Broadcasting**: The server can broadcast messages to all clients.
 - **Logging**: The system includes a logging mechanism to track events during execution.
 
-
 ### Key Classes
 
 1. **`DAS`**: The main class that initializes the server or client based on the input arguments.
